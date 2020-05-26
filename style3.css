@@ -1,0 +1,18 @@
+body{
+    background-color: #82d1bc ;
+}
+#img{
+    height: 70px;
+    width:200px;
+}
+.col-5{
+    padding-top: 15px;
+}
+.col-4{
+    text-align-last: right;
+    font-size: 30px;
+    padding-top: 7px;
+}
+.link-login a{
+  color: #000000;
+}
