@@ -1,10 +1,12 @@
 body{
-    background-color: #82d1bc ;
+    background-color:  ;
 }
 #img{
     height: 70px;
     width:200px;
+    padding-bottom: 10px;
 }
+
 .col-5{
     padding-top: 15px;
 }
@@ -16,3 +18,95 @@ body{
 .link-login a{
   color: #000000;
 }
+.catalog{
+    width: 200px;
+    text-align: left;
+    font-size: 25px;
+    padding-top: 30px ;
+    color: #000000;
+    background-color: #8bd180;
+    border: 4px black solid;
+}
+.catalog div{
+    padding-top: 5px;
+    border: black solid 2px;
+}.catalog a {
+     color: #000000;
+ }
+ #advertising img{
+     width: 800px;
+ }
+
+ #FirstContent{
+     height: 200px;
+     border: solid 2px grey;
+     border-radius: 10px;
+ }
+ #FirstContent img{
+     height: 195px;
+ }
+ #SecondContent{
+     height:200px;
+     border: solid 2px grey;
+     border-radius: 10px;
+ }
+ #SecondContent img{
+     height: 195px;
+     width: 230px;
+ }
+ #ThirdContent{
+     height: 200px;
+     border: solid 2px grey;
+     border-radius: 10px;
+ }
+ #ThirdContent img {
+     height: 195px;
+ }
+
+ .Tab-b{
+     display: none;
+ }
+
+#main-slider img{
+    width: 850px;
+    height: 400px;
+}
+.Tabs-header{
+    clear: both;
+
+}
+h1{
+    text-align: center;
+    border: solid 2px grey;
+    border-radius: 10px;
+
+
+}
+.Tabs-body{
+    background-color: #ffffff;
+}
+.Tabs-body li{
+display: inline-block;
+}
+#menu{
+    background-color: #ffffff;
+    border: solid 2px grey;
+    border-radius: 10px;
+
+}
+#menu li{
+    font-size: 20px;
+    text-align: left;
+    padding-top: 20px;
+}
+#FirstContent li{
+    margin-left: 100px;
+}
+#ThirdContent li{
+    margin-left: 120px;
+}
+#SignIn{
+    border: solid 2px grey;
+    border-radius: 10px;
+}
+
